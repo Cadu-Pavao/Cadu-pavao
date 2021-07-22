@@ -6,7 +6,6 @@
   - Web Developer;
   - Computer science student;
   - Figma lover (UI/UX);
-  - Brazilian;
   
 ## &#9881; Skills
 
