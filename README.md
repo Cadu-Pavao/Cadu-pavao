@@ -14,6 +14,7 @@
   - JavaScript;
   - Agile methodology;
   - Angular;
+  - Vue.js;
   - UI Prototyping;
   
 ## &#127987; Languages
