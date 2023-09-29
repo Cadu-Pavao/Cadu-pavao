@@ -3,8 +3,7 @@
 # Hi hi! Welcome!
 ## &#129305; I'm Cadu Pavão
 
-  - Web Developer;
-  - Computer science student;
+  - Front-end Developer;
   - Figma lover (UI/UX);
   
 ## &#9881; Skills
@@ -12,8 +11,7 @@
   - HTML;
   - CSS;
   - JavaScript;
-  - Agile methodology;
-  - Angular;
+  - React.js;
   - Vue.js;
   - UI Prototyping;
   
